@@ -1,3 +1,8 @@
+
+I edited the LICENSE, README.md, and main.py files per the assignment deetailed below. Within the main.py file are questions for the class that I edited w/ answeres. 
+
+
+
 # E02a-Operators
 An exercise exploring python operators and data types
 
